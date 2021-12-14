@@ -1,2 +1,2 @@
 # VulSPG
-We will first make public the FFmpeg and QEMU datasets used in VulSPG, including the resulting SPGs, and will gradually make the source code and other datasets available after the publication of the paper.
+We are glad you read this paper. Regarding vulSPG, we have recently worked out an improved method based on it, so we plan to publish the source code together with the improved article.
